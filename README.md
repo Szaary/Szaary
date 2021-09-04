@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me mk.michalkarcz@gmail.com
 
-My previous repositories (where i was before first job):
+My Main repository: https://github.com/Szaary/Games
+
+
+My previous repositories (where i was before):
 - https://dev.azure.com/MichalKarcz/CSharp%20Learning%20Path
 - https://dev.azure.com/MichalKarcz/Unity%20Learning%20Path
 <!---
