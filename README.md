@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Szaary - Michał Karcz
 - 👀 I’m interested in Gaming Industry and programming.
-- 🌱 I’m currently learning Extenject.
+- 🌱 I’m currently learning proper way of abstracting everything.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me mk.michalkarcz@gmail.com
 
