@@ -17,7 +17,7 @@
 - https://dev.azure.com/MichalKarcz/CSharp%20Learning%20Path
 - https://dev.azure.com/MichalKarcz/Unity%20Learning%20Path
 
-### Carrier:
+### Projects:
 - https://store.steampowered.com/app/1790610/AID__Artificial_Intelligence_Defence/ - lead programmer.
 
 
