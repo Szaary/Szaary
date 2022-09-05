@@ -15,8 +15,6 @@
 
 ##### My previous repositories (2-3 years ago):
 - https://dev.azure.com/MichalKarcz/CSharp%20Learning%20Path
-- https://dev.azure.com/MichalKarcz/Unity%20Learning%20Path
-
 
 
 
