@@ -11,10 +11,10 @@
 
 ##### CV
 - https://drive.google.com/file/d/1oa2q5Z_bRy02__5KUBiKpgpWUSF9HKJs/view?usp=sharing
-- Projects builds: https://discord.gg/MyDcjh4KNP 
+- Projects builds*: https://discord.gg/MyDcjh4KNP
 
 ##### My previous repositories (2-3 years ago):
-- https://dev.azure.com/MichalKarcz/CSharp%20Learning%20Path
+- https://dev.azure.com/MichalKarcz/CSharp%20Learning%20Path   
 
 
 
@@ -22,3 +22,6 @@
 Szaary/Szaary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+ * after you leave discord you will leave sever.
