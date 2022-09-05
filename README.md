@@ -11,7 +11,7 @@
 
 ##### CV
 - https://drive.google.com/file/d/1oa2q5Z_bRy02__5KUBiKpgpWUSF9HKJs/view?usp=sharing
-
+- Project builds: https://discord.gg/MyDcjh4KNP
 
 ##### My previous repositories (2-3 years ago):
 - https://dev.azure.com/MichalKarcz/CSharp%20Learning%20Path
