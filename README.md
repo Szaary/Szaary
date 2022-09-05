@@ -27,5 +27,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<sup>* after you leave discord you will leave sever<sub>
+<sup>* after you close discord you will leave sever<sub>
 
